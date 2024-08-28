@@ -1,5 +1,7 @@
 # github-style
 
+This theme is a fork of [MeiK2333's original work](https://github.com/MeiK2333/github-style).
+
 ## Init hugo site
 
 ```bash
@@ -10,7 +12,7 @@ cd mysite
 ## Install the theme
 
 ```bash
-git submodule add git@github.com:MeiK2333/github-style.git themes/github-style
+git submodule add https://github.com/brianewell/github-style.git themes/github-style
 ```
 
 ## Update the theme
